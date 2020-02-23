@@ -1,7 +1,8 @@
 {
   "name": "trp",
   "version": "1.0.0",
-  "dependencies": {
-
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
   }
 }
